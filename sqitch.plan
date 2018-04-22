@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/NolanAguirre/sqitch-test/
 
+testschema 2018-04-22T01:26:20Z Nolan Aguirre <NolanAguirre08@gmail.com> # Add a test shema for all flipr objects
